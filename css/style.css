@@ -1,0 +1,131 @@
+nav{
+	list-style-type: none;
+}
+.MG li{
+	display: inline-block;
+	color: #3D58A6;
+	width: 90px;
+}
+.logo1{
+	margin-left: 40px;
+	margin-top: 10px;
+	display: inline-block;
+	margin-right: 30px;
+}
+.MG .mtavari{
+	color: #EE4036;
+}
+.MG {
+	display: inline-block;
+}
+.baneri{
+	margin: 80px 90px 115px 100px;
+}
+.headerNav{
+	display: inline-block;
+}
+.headerNav li a, .headerNav li {
+	font-family: 'BPG Nino Mtavruli';
+}
+.fb-logo{
+	padding-right: 35px;
+	padding-left: 100px;
+	border-right: 1px solid; color: #3D58A6;
+	margin-top: 30px;
+
+}
+.yt-logo{
+	padding-left: 30px;
+}
+.satauri{
+	font-size: 24px;
+	margin-left: 100px;
+	margin-bottom: 25px;
+}
+.ertnairi{
+	display: inline-block;
+	background-color: #F2F2F2;
+	width:500px;
+	margin-left: 100px;
+	padding: 20px;
+}
+.qvesatauri{
+	color: #3D58A6;
+	font-size: 22px;
+}
+.ertnairi img {
+	display: inline-block;
+
+}
+.ertnairi p{
+	display: inline-block;
+	font-size: 20px;
+	color: #333333;
+	width: 350px;
+	
+}
+*{
+
+	box-sizing: border-box;
+}
+	
+body{
+	overflow-x: hidden;
+}
+
+.igive{
+	display: inline-block;
+}
+.ricxvi{
+	background-color: #3D58A6;
+	display: inline-block;
+	color: white;
+	font-size: 40px;
+	overflow: hidden;
+	margin-top: 40px;
+	margin-left: 30px;
+}
+.igive h3{
+	font-size: 20px;
+	margin-top: 25px;
+	margin-left: 30px;
+
+
+}
+.tve{
+	color: #3D58A6;
+	font-size: 20px;
+	margin-left: 30px;
+}
+.igive img{
+	margin-right: 15px;
+	margin-bottom: 100px;
+	margin-left: 30px;
+}
+.igive .text{
+	display: inline-block;
+	width: 1000px;
+	margin-left: 15px;
+	margin-top:25px;
+
+}
+.lastpage{
+	display: inline-block;
+	padding: 30px;
+	margin-top: 30px;
+}
+main {
+	background-color: #E6E6E6;
+}
+
+.lastpage img{
+	margin-left: 330px;
+
+}
+.lastpage h3{
+	color: #3D58A6;
+	font-size: 20px;
+}
+.lastpage span {
+	color: #808080;
+}
